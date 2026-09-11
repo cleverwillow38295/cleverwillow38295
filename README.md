@@ -1,16 +1,17 @@
-## Hi there 👋
+# hi
 
-<!--
-**cleverwillow38295/cleverwillow38295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+just a developer, still figuring things out.
 
-Here are some ideas to get you started:
+### about me
+- currently learning and building small tools in my free time
+- mostly interested in backend stuff and scripting
+- exploring different stacks, nothing fixed yet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### tech stack
+- python
+- javascript / node
+- git
+- linux
+
+### projects
+nothing public yet. will update this section when i have something worth sharing.
